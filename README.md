@@ -4,7 +4,7 @@
 This project analyzes real survey data from data professionals and presents the results through an interactive Power BI dashboard.  
 The goal of the project is to explore the demographics, salaries, job titles, programming preferences, and overall career satisfaction of people working in the data industry.
 ## 📊 Dashboard Preview
-![Bike Sales Dashboard](images/Data Professional Survey Breakdown.png)
+![Bike Sales Dashboard](images/Data%20Professional%20Survey%20Breakdown.png)
 
 
 ## Data
